@@ -57,4 +57,4 @@ Tasks are stored in memory during the execution of the program and are not persi
 
 ## **Support**
 
-For any questions, suggestions, or issues, please contact kasa pogu dharma teja at dharmateja238@gmail.com.
+For any questions, suggestions, or issues, please contact at dharmateja238@gmail.com.
