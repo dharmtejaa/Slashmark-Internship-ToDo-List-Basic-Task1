@@ -11,13 +11,16 @@ Instant Updates: View real-time updates to the task list.
 ## **Requirements**
 
 Python 3.x
+
 tkinter library (usually comes pre-installed with Python)
+
 
 ## **Installation of Required Modules**
 
 If you don't have the tkinter library installed or encounter any errors related to missing modules, you can install it using pip. Open your terminal or command prompt and enter the following command:
 
 :> pip install tk
+
 
 ## **Usage**
 
@@ -30,6 +33,7 @@ If you don't have the tkinter library installed or encounter any errors related 
 4. **Remove Task**: Enter the number of the task you want to remove from the list in the text entry field and click the "Remove Task" button.
 
 5. **Exit**: Click the "Exit" button to close the application.
+   
 
 ## **Running the Program**
 
@@ -43,11 +47,13 @@ To run the To-Do List GUI:
 
 :> python todo_list.py
 
+
 ### **Notes**
 
 This program uses tkinter for the graphical interface, which is included with standard Python installations.
 
 Tasks are stored in memory during the execution of the program and are not persisted across sessions.
+
 
 ## **Support**
 
